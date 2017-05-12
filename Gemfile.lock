@@ -42,7 +42,10 @@ GEM
       activerecord (>= 2.3.0)
       rake (>= 0.8.7)
     arel (7.1.4)
+<<<<<<< HEAD
     bcrypt (3.1.11)
+=======
+>>>>>>> d7241bceb4e48b4c4b9748c045ee02ef31b41468
     better_errors (2.1.1)
       coderay (>= 1.0.0)
       erubis (>= 2.6.6)
@@ -171,7 +174,10 @@ PLATFORMS
 
 DEPENDENCIES
   annotate
+<<<<<<< HEAD
   bcrypt
+=======
+>>>>>>> d7241bceb4e48b4c4b9748c045ee02ef31b41468
   better_errors
   binding_of_caller
   byebug

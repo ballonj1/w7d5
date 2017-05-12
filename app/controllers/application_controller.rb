@@ -1,4 +1,5 @@
 class ApplicationController < ActionController::Base
+<<<<<<< HEAD
   # protect_from_forgery with: :exception
 
   def current_user
@@ -19,4 +20,7 @@ class ApplicationController < ActionController::Base
     !!current_user
   end
 
+=======
+  protect_from_forgery with: :exception
+>>>>>>> d7241bceb4e48b4c4b9748c045ee02ef31b41468
 end

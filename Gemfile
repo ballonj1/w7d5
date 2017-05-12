@@ -18,7 +18,10 @@ gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
+<<<<<<< HEAD
 gem 'bcrypt'
+=======
+>>>>>>> d7241bceb4e48b4c4b9748c045ee02ef31b41468
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 gem "pry-rails"
